@@ -4,7 +4,7 @@ In this notebook , I have developed a custom convolutional neural architecture t
 ![image](https://github.com/IsmailQayyum/Cifar10-Classification-PyTorch/assets/152914864/fec0251f-a7ed-4f3a-9645-31bf85197ab8)
 
 
-Through constant experimentation and embedding different techniques , I have reached an accuracy of 81%. 
+Through constant experimentation and applying different techniques , I have reached an accuracy of 81%. 
 
 **Framework:** PyTorch
 
