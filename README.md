@@ -5,3 +5,5 @@ In this notebook , I have developed a custom convolutional neural architecture t
 
 
 Through constant experimentation and embedding different techniques , I have reached an accuracy of 81%. 
+
+Framework: PyTorch
